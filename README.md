@@ -1,0 +1,2 @@
+# TCP over ICMP
+We develop ICMP tunnel on Go programming language. Our project let you transfer [TCP](https://tools.ietf.org/html/rfc793) data by using [ICMP](https://tools.ietf.org/html/rfc792) echo and replies. It can be used to bypass firewalls rules and even hide the fact of connection. Our goal is developing easy to use application for setting TCP connection between two hosts over ICMP.
